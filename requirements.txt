@@ -1,0 +1,21 @@
+# Core Dependencies
+python-dotenv==1.2.2
+httpx==0.28.1
+
+# LLM Dependecies
+openai==2.29.0
+google-genai==1.68.0
+ollama==0.6.1
+
+# Langchain
+langchain-openai==1.3.3
+langchain-google-genai==4.2.6
+langchain-community==0.4.2
+langchain-ollama==1.0.1
+
+# LangGraph
+langgraph==1.2.7
+
+# RAG & Vector Databases
+chromadb==1.5.9
+langchain-chroma==1.1.0
