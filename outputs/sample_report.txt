@@ -1,0 +1,27 @@
+======================================================================
+           JIRA BUG REGRESSION COVERAGE REPORT (SAMPLE)
+======================================================================
+
+Note: All issue keys, case IDs, and timestamps below are placeholders.
+
+Total bugs analysed       : 3
+Already covered (skipped) : 1
+New regression tests      : 2
+
+Skipped bugs:
+BUG-001
+
+Generation failed:
+None
+
+Newly covered bugs:
+BUG-002, BUG-003
+
+TestRail Case IDs:
+[SAMPLE-CASE-001, SAMPLE-CASE-002]
+
+Coverage:
+3 of 3 bugs now have regression coverage.
+
+Slack timestamp:
+SAMPLE_TIMESTAMP
